@@ -1,0 +1,2 @@
+# cdn
+file storage
